@@ -3,7 +3,7 @@
       "newAppLink": "",
       "version": 1,
       "show": true,
-      "com": false,
+      "com": true,
       
       "CheckR":true,
       
@@ -11,44 +11,51 @@
       
       "spancount": 1,
           
-        "isGuide":true,
+        "isGuide":false,
         
       "fan": false,
-      "snf":"mix",
+      "snf":"nb",
       "adsfan": {
-        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
-        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
-        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+        "fan_inters": "236879271577850_236879334911177",
+        "fan_native": "236879271577850_236879344911176",
+        "fan_native_banner": "236879271577850_236879348244509"
       },
       
       "showopenad":false,
       "admob": false,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admb_openad": "ca-app-pub-3940256099942544/3419835294",
-        "admb_inters": "ca-app-pub-3940256099942544/1033173712",
-        "admb_rewarded_inters": "ca-app-pub-3940256099942544/5354046379",
-        "admb_native": "ca-app-pub-3940256099942544/2247696110"
+        "admb_banner": "ca-app-pub-7144089957930196/2138558779",
+        "admb_openad": "ca-app-pub-7144089957930196/8711705985",
+        "admb_inters": "ca-app-pub-7144089957930196/7198834839",
+        "admb_rewarded_inters": "ca-app-pub-7144089957930196/7198834839",
+        "admb_native": "ca-app-pub-7144089957930196/4597201157"
       },
       
        
-       "shownativerecycler":false,
-       "shownative":false,
+       "shownativerecycler":true,
+       "shownative":true,
       
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
       },
       
       
-      "tvliveremove": [
-        "Télé Maroc",
-        "https://player-api.new.livestream.com/accounts/27130247/events/8196478/broadcasts/212873574.secure.m3u8",
-        "https://www.telemaroc.tv/img/logo.png"
-      ],
       "popular_baja": [
+        [
+          false,
+          "Marseille Vs ",
+          "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
+        ],
+        [
+          true,
+          "Messi ",
+          "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
+          "https://img.youtube.com/vi/5Z5AUS1sL4Q/maxresdefault.jpg"
+        ],
         [
           false,
           "Wac Vs Ocs",
@@ -57,12 +64,12 @@
         ],
         [
           false,
-          "Athletico Vs khE",
-          "http://103.145.12.195:8080/hls/streama145239/index.m3u8",
+          "Athletico Vs ",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
         ],
         [
-          true,
+          false,
           "آرسنال VS تشيلسي",
           "https://dyxkiuqegrjxt.cloudfront.net/out/v1/51bd426b5022421e87bd21294a091dfe/index_4.m3u8",
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
@@ -75,20 +82,14 @@
         ],
         [
           false,
-          "Juventus Vs Atalanta",
-          "https://video.xx.fbcdn.net/hvideo-frc-prn/_nc_ohc-FRH55gbBt8gAX-cgE8T/_nc_cat-100/v/r5pO9g4V_RTzHIv_5YBag/live-dash/dash-abr-ibr-audio/201840528275339_0.mpd?_nc_rl=AfDBC3gf7p5UTTzm&ms=m_CT&oh=0b5624bb96338cf1726b0caf5e298665&oe=5FDBB528",
-          "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
-        ],
-        [
-          false,
-          "ManU Vs ManCity",
-          "http://akamai2-mx.cdn.booyah.live/hls/250170/36385570.m3u8",
+          "ManU Vs ",
+          "https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_3.m3u8",
           "https://i.pinimg.com/originals/8e/f5/9d/8ef59dc3c90a3abd56c87a5901709132.jpg"
         ],
         [
           false,
-          "RMA Vs Ath",
-          "https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4_1.m3u8",
+          "RMA Vs ",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/548px-Logo_Real_Madrid.svg.png"
         ],
         [
@@ -99,8 +100,14 @@
         ],
         [
           false,
-          "Liverpool Vs Cri",
-          "https://video-mia.xx.fbcdn.net/hvideo-ash109/_nc_ohc-YSFghKr1BGIAX-FU7BP/_nc_cat-111/v/rw7I5vhx7PJHK0hJn70r6/live-dash/dash-abr-ibr-audio/195038685613447_0.mpd?_nc_rl=AfCLQIwQlVxWYcStLUY&lvp=1&oh=a9c4eab6f93d70f59e538086b5d63f63&oe=5FDF55FC",
+          "Milan Vs ",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+          "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
+        ],
+        [
+          false,
+          "Liverpool Vs ",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://i.pinimg.com/originals/bc/16/5d/bc165d74fa7c0a79a89ff1fcf5db2678.png"
         ],
         [
@@ -123,8 +130,14 @@
         ],
         [
           false,
-          "PSG Vs MNP",
-          "https://aws-br.cdn.booyah.live/hls/1000019/35413350.m3u8",
+          "Juventus Vs Atalanta",
+          "https://d1bqsu1s7yssdb.cloudfront.net/out/v1/f018be430003489fa0f05ae1d61132ff/index_3.m3u8",
+          "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
+        ],
+        [
+          false,
+          "PSG Vs ",
+          "https://d3las0o2fow45s.cloudfront.net/out/v1/c93aef40f5534dd1b42dc7d6e375d72e/index_3.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
         ],
         [
@@ -140,19 +153,19 @@
           "https://www.cimoandroid.com/morocco/pictures/medi1tv.png"
         ],
         [
-          true,
+          false,
           "2m monde",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/my2m.jpg"
         ],
         [
-          true,
+          false,
           "Al Aoula",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/alaoula.png"
         ],
         [
-          true,
+          false,
           "Al Maghribia",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/almaghribia.png"
@@ -164,37 +177,37 @@
           "https://www.cimoandroid.com/morocco/pictures/arriyadia.png"
         ],
         [
-          true,
+          false,
           "Assadissa",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/assadissa.png"
         ],
         [
-          true,
+          false,
           "Arrabiaa",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/attakafiya.png"
         ],
         [
-          true,
+          false,
           "AlAoula Laayoune",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/laayoune.png"
         ],
         [
-          true,
+          false,
           "Tamazight",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/tamazight.png"
         ],
         [
-          true,
+          false,
           "M24 TV",
           "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8",
           "https://www.m24tv.ma/sites/default/files/LOGO-M24-VF-sans-texte.png"
         ],
         [
-          true,
+          false,
           "Alarabiya",
           "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8",
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_aa.jpg"
@@ -212,7 +225,7 @@
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          "true",
+          true,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
