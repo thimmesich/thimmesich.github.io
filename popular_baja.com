@@ -2,7 +2,7 @@
     {
       "newAppLink": "",
       "version": 1,
-      "show": true,
+      "show": false,
       "com": true,
       
       "CheckR":true,
@@ -11,7 +11,7 @@
       
       "spancount": 1,
           
-        "isGuide":false,
+        "isGuide":true,
         
       "fan": false,
       "snf":"nb",
@@ -51,7 +51,7 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
         ],
         [
-          true,
+          false,
           "Messi ",
           "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
           "https://img.youtube.com/vi/5Z5AUS1sL4Q/maxresdefault.jpg"
@@ -171,7 +171,7 @@
           "https://www.cimoandroid.com/morocco/pictures/almaghribia.png"
         ],
         [
-          true,
+          false,
           "Arriyadia",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/arriyadia.png"
@@ -213,19 +213,19 @@
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_aa.jpg"
         ],
         [
-          true,
+          false,
           "Al Hadath",
           "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8",
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_hadath.jpg"
         ],
         [
-          true,
+          false,
           "AlJazeera Documentary",
           "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          true,
+          false,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
