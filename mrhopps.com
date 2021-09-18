@@ -3,8 +3,8 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
       "newAppLink": "",
@@ -62,9 +62,9 @@
         "admb_inters": "ca-app-pub-6630515083606916/1315765106",
         "admb_native": "ca-app-pub-6630515083606916/9002683431"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3978659s",
+        "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"
       },
       
