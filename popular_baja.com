@@ -2,7 +2,7 @@
     {
       "newAppLink": "",
       "version": 1,
-      "show": false,
+      "show": true,
       "com": true,
       
       "CheckR":true,
@@ -63,9 +63,9 @@
           "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
         ],
         [
-          false,
+          true,
           "Athletico Vs ",
-          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+          "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_4.m3u8",
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
         ],
         [
