@@ -11,7 +11,7 @@
       
       "spancount": 1,
           
-        "isGuide":true,
+        "isGuide":false,
         
       "fan": false,
       "snf":"nb",
