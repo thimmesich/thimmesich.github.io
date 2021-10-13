@@ -55,14 +55,15 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": false,
+      
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-9280604633726790/5458914155",
-        "admb_openad": "ca-app-pub-9280604633726790/1519669141",
-        "admb_inters": "ca-app-pub-9280604633726790/7305993079",
-        "admb_native": "ca-app-pub-9280604633726790/7058581067"
+        "admb_banner": "ca-app-pub-7740029350387036/3624287419",
+        "admb_openad": "ca-app-pub-7740029350387036/1592008680",
+        "admb_inters": "ca-app-pub-7740029350387036/9606230076",
+        "admb_native": "ca-app-pub-7740029350387036/8441839134
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"
