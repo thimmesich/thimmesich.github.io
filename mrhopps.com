@@ -56,14 +56,14 @@
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
       
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2409951010639430/7479889485",
-        "admb_openad": "ca-app-pub-2409951010639430/2096890234",
-        "admb_inters": "ca-app-pub-2409951010639430/4723053575",
-        "admb_native": "ca-app-pub-2409951010639430/3984686975
+        "admb_banner": "ca-app-pub-9684295030110488/1404972706",
+        "admb_openad": "ca-app-pub-9684295030110488/5152646027",
+        "admb_inters": "ca-app-pub-9684295030110488/7778809364",
+        "admb_native": "ca-app-pub-9684295030110488/8900319340"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
